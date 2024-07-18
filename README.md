@@ -14,5 +14,6 @@ Recentemente, comecei a migrar para a área de programação e estou descobrindo
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" height="50" width="70" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
     <img align="center" alt="css3"  height="50" width="70" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="javaScript"  height="50" width="70" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
 </div>
 
